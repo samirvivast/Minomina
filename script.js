@@ -177,7 +177,7 @@
       ['Vacaciones proporcionales', Math.round(vacaciones)],
       ['Total prestaciones (provisión)', Math.round(totalPrestaciones)],
       ['_______________________________________________', 0],
-      ['Total a Pagar:', totalPago]
+      ['Total con descuento de Salud y Pension:', totalPago]
     ];
 
     // renderizar en tabla
